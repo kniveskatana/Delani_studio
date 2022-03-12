@@ -1,0 +1,15 @@
+.container-fluid{
+    background-image: url("../Images/h_img.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    font-family: 'Gabriela', serif;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    /* background-position: right center; */
+}
+.col{
+    /* height: 60vh; */
+
+}
