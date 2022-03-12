@@ -9,7 +9,9 @@
     justify-content: center; */
     /* background-position: right center; */
 }
-.col{
-    /* height: 60vh; */
-
+#thirdPage{
+    height: 50vh;
+    background-image: url("../Images/s_image.jpg");
+    background-position: center;
+    background-size: cover;
 }
