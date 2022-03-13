@@ -19,6 +19,17 @@
     height: 30vh;
     width: 100%;
 }
+#fillform{
+    background-image: url("../Images/c_image.jpg");
+    background-size: cover;
+    height: 70vh;
+}
+.form-control{
+    background: none;
+}
+.form-control::placeholder{
+    color: white;
+}
 /* #img1{
     background-image: url("../Images/work4.jpg");
     height: 30vh;
