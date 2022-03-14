@@ -34,8 +34,64 @@
     display: none;
     background-color: white;
     position: absolute;
-    top: 0;
+    top: -20px;
 }
 #whatWeDo{
-    height: 30vh;
+    /* height: 30vh; */
 }
+.Une{
+    background-image: url("../Images/work4.jpg");
+    background-size: cover;
+    height: 30vh;
+    width: 98%;
+}
+.deux{
+    background-image: url("../Images/work3.jpg");
+    background-size: cover;
+    height: 30vh;
+    width: 98%;
+}
+.trois{
+    background-image: url("../Images/work2.jpg");
+    background-size: cover;
+    height: 30vh;
+    width: 98%;
+}
+.quatre{
+    background-image: url("../Images/work1.jpg");
+    background-size: cover;
+    height: 30vh;
+    width: 98%;
+}
+.cinq{
+    background-image: url("../Images/work5.jpg");
+    background-size: cover;
+    height: 30vh;
+    width: 98%;
+}
+.six{
+    background-image: url("../Images/work6.jpg");
+    background-size: cover;
+    height: 30vh;
+    width: 98%;
+}
+.sept{
+    background-image: url("../Images/work7.jpg");
+    background-size: cover;
+    height: 30vh;
+    width: 98%;
+}
+.huit{
+    background-image: url("../Images/work8.jpg");
+    background-size: cover;
+    height: 30vh;
+    width: 98%;
+}
+.One{
+    background-color: rgb(255, 255, 255,0.3);
+    height: 90%;
+    width: 98%;
+    display: none;
+
+}
+
